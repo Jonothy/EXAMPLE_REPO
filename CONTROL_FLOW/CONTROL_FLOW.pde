@@ -1,3 +1,5 @@
+// THIS IS NOW A GITHUB REPOSITORY
+
 // mode 0 is the start screen
 // mode 1 is the about page
 // mode 3 is the actual work itself
