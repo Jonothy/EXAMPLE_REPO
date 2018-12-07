@@ -1,4 +1,5 @@
 // THIS IS NOW A GITHUB REPOSITORY
+// I am now doing a comment!
 
 // mode 0 is the start screen
 // mode 1 is the about page
